@@ -1,0 +1,13 @@
+D:\project\ProxyChecker\ProxyChecker\bin\Release\ProxyChecker.exe.config
+D:\project\ProxyChecker\ProxyChecker\bin\Release\ProxyChecker.exe
+D:\project\ProxyChecker\ProxyChecker\bin\Release\ProxyChecker.pdb
+D:\project\ProxyChecker\ProxyChecker\bin\Release\Leaf.xNet.dll
+D:\project\ProxyChecker\ProxyChecker\bin\Release\Leaf.xNet.xml
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csprojAssemblyReference.cache
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.Form1.resources
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.Properties.Resources.resources
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csproj.GenerateResource.cache
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csproj.CoreCompileInputs.cache
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csproj.CopyComplete
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.exe
+D:\project\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.pdb
